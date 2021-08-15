@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmCraft</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
